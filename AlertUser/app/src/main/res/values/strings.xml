@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ReceiptAdmin</string>
+
+    <string-array name="actions">
+        <item>Get</item>
+        <item>Add</item>
+        <item>Edit</item>
+    </string-array>
+</resources>
