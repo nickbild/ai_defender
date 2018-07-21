@@ -4,6 +4,8 @@ The scripts in this package will allow you to build a TensorFlow convolutional n
 
 ## Overview
 
+- https://www.youtube.com/watch?v=RemLljCo-HI
+
 ![Overview](https://raw.githubusercontent.com/nickbild/nickbild79_firebase/master/public/img/ai_defender.png)
 
 ![Overview](https://raw.githubusercontent.com/nickbild/nickbild79_firebase/master/public/img/ai_defender_2.png)
