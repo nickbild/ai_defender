@@ -2,6 +2,12 @@
 
 The scripts in this package will allow you to build a TensorFlow convolutional neural network model and run the AI Defender Device software.
 
+## Overview
+
+![Overview](https://raw.githubusercontent.com/nickbild/nickbild79_firebase/master/public/img/ai_defender.png)
+
+![Overview](https://raw.githubusercontent.com/nickbild/nickbild79_firebase/master/public/img/ai_defender_2.png)
+
 ## Device software:
 
 client_device.py
